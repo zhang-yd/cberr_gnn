@@ -1,6 +1,6 @@
-# cbrr_gnn
+# cberr_gnn
 
-todo
+CBERR algorithm
 
 
 # How to use this
